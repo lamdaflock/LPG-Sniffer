@@ -3,9 +3,9 @@
    https://github.com/lamdaflock/LPG-Sniffer
    ===================== */
 
-#define BLYNK_TEMPLATE_ID "TMPL67b_xXmLQ"
+#define BLYNK_TEMPLATE_ID "ID Template"
 #define BLYNK_TEMPLATE_NAME "Smart LPG Leak Sniffer"
-#define BLYNK_AUTH_TOKEN "erkT2-8nqnK0HU2MEvUrtTCrcQnX5QK0"
+#define BLYNK_AUTH_TOKEN "Token Blynk"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -15,8 +15,8 @@
 #include <Wire.h>
 #include "Images.h" 
 
-char ssid[] = "naf"; 
-char pass[] = "naf11119"; 
+char ssid[] = "SSID"; 
+char pass[] = "Passwordnya"; 
 
 
 #define MQ_PIN      0   
