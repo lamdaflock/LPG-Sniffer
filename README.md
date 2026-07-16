@@ -7,3 +7,14 @@ Tidak bisa dipungkiri bahwa kebocoran gas telah menjadi penyebab yang sangat mem
 LPG terdiri dari campuran propana dan butana yang merupakan bahan kimia yang sangat mudah terbakar. Karena sifatnya ini yang mudah terbakar, tidak berwarna, maupun tidak berbau maka dibutuhkannya alat khusus untuk mendeteksi adanya kejadian kebocoran pada tabung LPG, kenalkan LPG Sniffer.
 
 PPT LPG Sniffer: canva.link/lpgsniffer
+
+Thanks to lopaka.app, making the dashboard was way easier!
+
+Screen Boot
+<img width="922" height="589" alt="image" src="https://github.com/user-attachments/assets/929478db-a84e-448c-bd47-018fe30ef974" />
+
+Screen Calibrating (60s)
+<img width="907" height="555" alt="image" src="https://github.com/user-attachments/assets/6e77cf70-dfea-4407-9b1f-1a2558101efc" />
+
+Screen Local Dashboard
+<img width="893" height="575" alt="image" src="https://github.com/user-attachments/assets/6809f623-4225-4dba-a443-1529115b8e3a" />
